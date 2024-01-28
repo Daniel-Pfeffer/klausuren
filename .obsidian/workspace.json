@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "bc4ce38f30bf0d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c210a831cecbdcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1c561d0bc661b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/Searching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28e7c1e802381cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine learning/unsupervised/Clustering - K-means, SOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "627b1865425fa215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "machine learning/Evaluation of Unsupervised and Supervised.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0ed79bf94afc6d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e10ddc6738fab13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cf104d45bbaa33c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41054d0bf04d5180",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bc03f8c65f45a95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bcafd4c404c42f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad38e926280a22ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c550eb8134842ca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "machine learning/Evaluation of Unsupervised and Supervised.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "912692d0b77201a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "machine learning/Evaluation of Unsupervised and Supervised.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b1cc0c18e833000",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08679e2cf80128fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "machine learning/Evaluation of Unsupervised and Supervised.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "627b1865425fa215",
+  "lastOpenFiles": [
+    "machine learning/unsupervised/Clustering - K-means, SOM.md",
+    "machine learning/unsupervised/PCA, MDS.md",
+    "machine learning/Kernel methods & Support Vector Machines (SVM).md",
+    "machine learning/Neural networks.md",
+    "machine learning/Recommender Systems.md",
+    "machine learning/supervised/KNN and Tree-based Classification.md",
+    "machine learning/imgs/perf_measure.png",
+    "machine learning/imgs/clustering - component planes.png",
+    "machine learning/imgs/knn.png",
+    "machine learning/Evaluation of Unsupervised and Supervised.md",
+    "machine learning/supervised/Linear models for regression and classification.md",
+    "machine learning/supervised",
+    "machine learning/imgs",
+    "machine learning/unsupervised",
+    "ai/Searching.md",
+    "machine learning",
+    "ai",
+    "Game playing.md",
+    "Welcome.md"
+  ]
+}
